@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dp-portfolio/static/css/main.bfd851fc.css",
+    "main.js": "/dp-portfolio/static/js/main.401b0838.js",
+    "static/media/work-from-home-computer-setup-15.jpg": "/dp-portfolio/static/media/work-from-home-computer-setup-15.fec3b1c700c94ec5938e.jpg",
+    "static/media/DARRICK_PRICHETT_2018.docx": "/dp-portfolio/static/media/DARRICK_PRICHETT_2018.fc1ef191ff9f5e591d1d.docx",
+    "static/media/download.jpg": "/dp-portfolio/static/media/download.edf57245dd7fafca87b8.jpg",
+    "index.html": "/dp-portfolio/index.html",
+    "main.bfd851fc.css.map": "/dp-portfolio/static/css/main.bfd851fc.css.map",
+    "main.401b0838.js.map": "/dp-portfolio/static/js/main.401b0838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfd851fc.css",
+    "static/js/main.401b0838.js"
+  ]
+}
