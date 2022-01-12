@@ -5,7 +5,8 @@ import image3 from "../../image/photo-port-image.jpg";
 import image4 from "../../image/employee-tracker-image.jpg";
 import image5 from "../../image/team-profile-generator.png";
 import image6 from "../../image/note-taker-image.jpg";
-import image7 from "../../image/national-park-image.jp;g"
+import image7 from "../../image/national-park-image.jpg;
+"
 import Project from "../Project";
 
 const Projects = () => {
